@@ -1,4 +1,4 @@
-# mes-class : 骚扰短信分类
+# mes-class : 骚扰短信识别
 ## Introduction 介紹
 CNN for NLP. 将卷积神经网络运用到文本分类中。识别短信为骚扰短信，或普通短信。
 ## Steps 步骤
